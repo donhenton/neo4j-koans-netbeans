@@ -16,8 +16,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
         
-        <neo4j.version>1.8-SNAPSHOT</neo4j.version> 
-       
+        <neo4j.version>1.8</neo4j.version> 
         <eclipsePluginVersion>2.5</eclipsePluginVersion>
         <vmtype>org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType</vmtype>
         <jdkName>JavaSE-1.6</jdkName>
